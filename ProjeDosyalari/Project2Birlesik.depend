@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1637584618 source:c:\users\berk\desktop\codes\project2birlesik\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<iostream>
+	<sstream>
+
+1637584618 source:c:\users\berk\desktop\codes\suffixtree\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<iostream>
+	<sstream>
+
